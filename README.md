@@ -4,7 +4,6 @@
 
 🔍 Currently diving deeper into cross platform mobile development and AWS architecture, while crafting end-to-end mobile experiences at **Nimi LLC**, California.
 
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -26,7 +25,6 @@ MySQL · PostgreSQL · Firestore · MSSQL
 **Other Tools**  
 Redux Toolkit · Redux Saga · Figma · Jira · Linear · GitHub Actions
 
----
 
 ## 📚 Education
 
@@ -35,7 +33,6 @@ University of Moratuwa
 _Second Class Upper Division_  
 2020 – 2024
 
----
 
 ## 🌱 Currently Learning
 
@@ -43,7 +40,6 @@ _Second Class Upper Division_
 - Advanced AWS DevOps
 - Scalable Backend Systems
 
----
 
 ## 🌍 Connect with Me
 
