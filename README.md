@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Udith Wijegunavardhana
-
-### Software Engineer | Mobile Specialist | Cloud Enthusiast
+### Software Engineer | Mobile Full Stack Development | Cloud Enthusiast
 
 🚀 Passionate about building performant, secure, and scalable applications across platforms—iOS, Android, and Web.
 
-🔍 Currently diving deeper into native iOS development and AWS architecture, while crafting end-to-end mobile experiences at **Nimi LLC**, California.
+🔍 Currently diving deeper into cross platform mobile development and AWS architecture, while crafting end-to-end mobile experiences at **Nimi LLC**, California.
 
 ---
 
@@ -27,26 +25,6 @@ MySQL · PostgreSQL · Firestore · MSSQL
 
 **Other Tools**  
 Redux Toolkit · Redux Saga · Figma · Jira · Linear · GitHub Actions
-
----
-
-## 🚧 Notable Projects
-
-**🛻 Fasten – Vehicle Rewards App**  
-<i>Full-stack Developer | React Native · NestJS · AWS</i>  
-Built from the ground up for both iOS & Android.
-
-**🌍 WAPP – Location-Activated Travel Insurance**  
-<i>Frontend Developer | React Native</i>  
-Enabled location-triggered features for a seamless user experience.
-
-**🛒 SOFF Cricket App & Gangfy POS**  
-<i>Full-stack Developer | Flutter · Spring Boot · MsSQL</i>  
-Digitized order management and POS for a local sports retailer.
-
-**🧠 X-Ray Vision – Final Year Research**  
-<i>Team Leader | CNN · OpenCV · Python</i>  
-Enhanced lung manifestation detection with deep learning.
 
 ---
 
