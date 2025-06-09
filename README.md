@@ -1,4 +1,6 @@
-### Software Engineer | Mobile Full Stack Development | Cloud Enthusiast
+## 👱‍♂️ I'm 
+
+### A Software Engineer | Mobile Full Stack Development | Cloud Enthusiast
 
 🚀 Passionate about building performant, secure, and scalable applications across platforms—iOS, Android, and Web.
 
